@@ -1,0 +1,8 @@
+.slide{
+    border: 1px ;
+    width: 50%;
+    height: 50vh;
+    margin:20;
+    padding:20;
+    align-items:center;
+}
